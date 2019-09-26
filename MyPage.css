@@ -1,4 +1,5 @@
-body {    
-    background-color: red;
-    
+body{
+    background-image: url("image.png");
+    position: center;
+    background-repeat: no-repeat;
 }
